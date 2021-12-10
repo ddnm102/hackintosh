@@ -1,0 +1,5 @@
+/Volumes/EFI/EFI/CLOVER/KEXTS/Other/IO80211Family.kext
+
+=> file goc cua mac os Mojave. Vi tren Catalina khong con support cho wifi bcm4322
+nen ta thu copy file nay vao clover => it work.
+Thong tin: https://osxlatitude.com/forums/topic/11138-inventory-of-supportedunsupported-wireless-cards-2-sierra-catalina/
